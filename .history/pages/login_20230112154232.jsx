@@ -15,12 +15,12 @@ export default function login() {
       <div className="flex h-screen items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div className="w-full max-w-md space-y-8">
           <div>
-            <div className="">
-              <img
-                className="mx-auto h-24 w-auto mb-10"
-                src="/images/curiositylogo.png"
-                alt="Raeven Platform"
-              />
+            <div className="bg">
+            <img
+              className="mx-auto h-12 w-auto"
+              src="/images/curiositylogo.png"
+              alt="Raeven Platform"
+            />
             </div>
             <div className="px-2 py-3 rounded-xl bg-gray-100">
               <h2 className=" text-center text-3xl font-bold tracking-tight text-white px-1 py-2 rounded-xl bg-gradient-to-r from-red-600 to-orange-300 bg-clip-text pb-3 text-transparent">
