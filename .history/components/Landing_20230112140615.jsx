@@ -341,7 +341,7 @@ export default function Landing() {
                     <h1 className="mt-4 text-4xl font-bold tracking-tight text-white sm:mt-5 sm:text-6xl lg:mt-6 xl:text-6xl">
                       <span className="block">Buy, Sell, Deliver</span>
                       <span className="block bg-gradient-to-r from-red-600 to-orange-300 bg-clip-text pb-3 text-transparent sm:pb-5">
-                        On Raeven Platform
+                        On
                       </span>
                     </h1>
                     <p className="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
