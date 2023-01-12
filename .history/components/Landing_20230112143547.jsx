@@ -12,8 +12,6 @@ import {
   XMarkIcon,
   ArchiveBoxArrowDownIcon,
   BuildingStoreFrontIcon,
-  HomeIcon,
-  
 } from "@heroicons/react/24/outline";
 import {
   ArrowTopRightOnSquareIcon,
@@ -42,7 +40,7 @@ const features = [
     name: "Select the Raeven Seller",
     description:
       "Qui aut temporibus nesciunt vitae dicta repellat sit dolores pariatur. Temporibus qui illum aut.",
-    icon: HomeIcon,
+    icon: BuildingShopFrontIcon,
   },
   {
     name: "Select Shop Category",

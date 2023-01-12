@@ -10,10 +10,6 @@ import {
   ServerIcon,
   ShieldCheckIcon,
   XMarkIcon,
-  ArchiveBoxArrowDownIcon,
-  BuildingStoreFrontIcon,
-  HomeIcon,
-  
 } from "@heroicons/react/24/outline";
 import {
   ArrowTopRightOnSquareIcon,
@@ -36,13 +32,13 @@ const features = [
     name: "Register on the platform",
     description:
       "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi vitae lobortis.",
-    icon: ArchiveBoxArrowDownIcon,
+    icon: CloudArrowUpIcon,
   },
   {
     name: "Select the Raeven Seller",
     description:
       "Qui aut temporibus nesciunt vitae dicta repellat sit dolores pariatur. Temporibus qui illum aut.",
-    icon: HomeIcon,
+    icon: LockClosedIcon,
   },
   {
     name: "Select Shop Category",
@@ -51,19 +47,19 @@ const features = [
     icon: ArrowPathIcon,
   },
   {
-    name: "Tell us abit about your shop",
+    name: "Tell us about your shop",
     description:
       "Ullam laboriosam est voluptatem maxime ut mollitia commodi. Et dignissimos suscipit perspiciatis.",
     icon: ShieldCheckIcon,
   },
   {
-    name: "Tell us shop location",
+    name: "Powerful API",
     description:
       "Ab a facere voluptatem in quia corrupti veritatis aliquam. Veritatis labore quaerat ipsum quaerat id.",
     icon: CogIcon,
   },
   {
-    name: "Display your products",
+    name: "Database Backups",
     description:
       "Quia qui et est officia cupiditate qui consectetur. Ratione similique et impedit ea ipsum et.",
     icon: ServerIcon,

@@ -10,10 +10,6 @@ import {
   ServerIcon,
   ShieldCheckIcon,
   XMarkIcon,
-  ArchiveBoxArrowDownIcon,
-  BuildingStoreFrontIcon,
-  HomeIcon,
-  
 } from "@heroicons/react/24/outline";
 import {
   ArrowTopRightOnSquareIcon,
@@ -33,37 +29,37 @@ const navigation = [
 ];
 const features = [
   {
-    name: "Register on the platform",
+    name: "Push to Deploy",
     description:
       "Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi vitae lobortis.",
-    icon: ArchiveBoxArrowDownIcon,
+    icon: CloudArrowUpIcon,
   },
   {
-    name: "Select the Raeven Seller",
+    name: "SSL Certificates",
     description:
       "Qui aut temporibus nesciunt vitae dicta repellat sit dolores pariatur. Temporibus qui illum aut.",
-    icon: HomeIcon,
+    icon: LockClosedIcon,
   },
   {
-    name: "Select Shop Category",
+    name: "Simple Queues",
     description:
       "Rerum quas incidunt deleniti quaerat suscipit mollitia. Amet repellendus ut odit dolores qui.",
     icon: ArrowPathIcon,
   },
   {
-    name: "Tell us abit about your shop",
+    name: "Advanced Security",
     description:
       "Ullam laboriosam est voluptatem maxime ut mollitia commodi. Et dignissimos suscipit perspiciatis.",
     icon: ShieldCheckIcon,
   },
   {
-    name: "Tell us shop location",
+    name: "Powerful API",
     description:
       "Ab a facere voluptatem in quia corrupti veritatis aliquam. Veritatis labore quaerat ipsum quaerat id.",
     icon: CogIcon,
   },
   {
-    name: "Display your products",
+    name: "Database Backups",
     description:
       "Quia qui et est officia cupiditate qui consectetur. Ratione similique et impedit ea ipsum et.",
     icon: ServerIcon,
@@ -425,12 +421,12 @@ export default function Landing() {
                 Fast Setup
               </h2>
               <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                Everything you need to setup your Raeven Shop
+                Everything you need to setup 
               </p>
               <p className="mx-auto mt-5 max-w-prose text-xl text-gray-500">
-                Over time, we stop paying attention to the simple joys of life.
-                So we at Raeven believe in making this shop opening process as
-                easy as possible. Check them out.
+                Phasellus lorem quam molestie id quisque diam aenean nulla in.
+                Accumsan in quis quis nunc, ullamcorper malesuada. Eleifend
+                condimentum id viverra nulla.
               </p>
               <div className="mt-12">
                 <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
