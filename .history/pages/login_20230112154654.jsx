@@ -12,7 +12,7 @@ export default function login() {
         <body class="h-full">
         ```
       */}
-      <div className="flex h-screen bg-gray-900 items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+      <div className="flex h-screen items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div className="w-full max-w-md space-y-8">
           <div>
             <div className="">
@@ -27,11 +27,11 @@ export default function login() {
                 Sign in to your Raeven account
               </h2>
             </div>
-            <p className="mt-2 text-center text-sm text-gray-400">
+            <p className="mt-2 text-center text-sm text-gray-600">
               Or{" "}
               <a
                 href="#"
-                className="font-medium text-gray-200 hover:text-red-400"
+                className="font-medium text-gray-600 hover:text-red-400"
               >
                 Register into the Raeven Platform
               </a>

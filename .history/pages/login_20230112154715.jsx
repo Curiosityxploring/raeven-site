@@ -27,11 +27,11 @@ export default function login() {
                 Sign in to your Raeven account
               </h2>
             </div>
-            <p className="mt-2 text-center text-sm text-gray-400">
+            <p className="mt-2 text-center text-sm text-gray-600">
               Or{" "}
               <a
                 href="#"
-                className="font-medium text-gray-200 hover:text-red-400"
+                className="font-medium text-gray-600 hover:text-red-400"
               >
                 Register into the Raeven Platform
               </a>
