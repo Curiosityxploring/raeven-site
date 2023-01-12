@@ -409,7 +409,7 @@ export default function Landing() {
                 </p>
               </div>
               <div className="mt-12 -mb-10 sm:-mb-24 lg:-mb-80">
-              <Lottie animationData={marketplaceworld} loop={true} />
+              <Lottie animationData={marketplace} loop={true} />
               </div>
             </div>
           </div>
