@@ -377,7 +377,7 @@ export default function Landing() {
                     </div>
                   </div>
                 </div>
-                <div className="mt-20 -mb-16 sm:-mb-48 lg:relative lg:m-0">
+                <div className="mt-12 -mb-16 sm:-mb-48 lg:relative lg:m-0">
                   {/* <div className="mx-auto max-w-md px-4 sm:max-w-2xl sm:px-6 lg:max-w-none lg:px-0">
                     <img
                       className="w-full lg:absolute lg:inset-y-0 lg:left-0 lg:h-full lg:w-auto lg:max-w-none"
