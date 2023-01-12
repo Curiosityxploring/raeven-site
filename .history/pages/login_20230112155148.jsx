@@ -1,6 +1,5 @@
 import React from "react";
 import { LockClosedIcon } from "@heroicons/react/20/solid";
-import Link from "next/link";
 
 export default function login() {
   return (
@@ -16,7 +15,7 @@ export default function login() {
       <div className="flex h-screen bg-gray-900 items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
         <div className="w-full max-w-md space-y-8">
           <div>
-            <Link href="/" className="">
+            <Link href className="">
               <img
                 className="mx-auto h-24 w-auto mb-10"
                 src="/images/curiositylogo.png"

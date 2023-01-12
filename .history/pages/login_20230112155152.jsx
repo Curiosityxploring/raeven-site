@@ -1,6 +1,5 @@
 import React from "react";
 import { LockClosedIcon } from "@heroicons/react/20/solid";
-import Link from "next/link";
 
 export default function login() {
   return (
