@@ -345,8 +345,7 @@ export default function Landing() {
                       </span>
                     </h1>
                     <p className="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
-                      Easily buy, sell and deliver all your products and
-                      services to customers around you and all around the world.
+                      Easily buy, sell and deliver all your products and services to customers around you and all al
                     </p>
                     <div className="mt-10 sm:mt-12">
                       <form
