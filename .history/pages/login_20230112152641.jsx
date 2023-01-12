@@ -1,5 +1,5 @@
-import React from "react";
-import { LockClosedIcon } from "@heroicons/react/20/solid";
+import React from 'react'
+import { LockClosedIcon } from '@heroicons/react/20/solid'
 
 export default function login() {
   return (
@@ -20,17 +20,10 @@ export default function login() {
               src="/images/curiositylogo.png"
               alt="Your Company"
             />
-            <div>
-              <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-white px-1 py-2 rounded-xl bg-gradient-to-r from-red-600 to-orange-300 bg-clip-text pb-3 text-transparent">
-                Sign in to your Raeven account
-              </h2>
-            </div>
+            div
             <p className="mt-2 text-center text-sm text-gray-600">
-              Or{" "}
-              <a
-                href="#"
-                className="font-medium text-gray-600 hover:text-red-400"
-              >
+              Or{' '}
+              <a href="#" className="font-medium text-orange-600 hover:text-red-400">
                 Register into the Raeven Platform
               </a>
             </p>
@@ -76,19 +69,13 @@ export default function login() {
                   type="checkbox"
                   className="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500"
                 />
-                <label
-                  htmlFor="remember-me"
-                  className="ml-2 block text-sm text-gray-900"
-                >
+                <label htmlFor="remember-me" className="ml-2 block text-sm text-gray-900">
                   Remember me
                 </label>
               </div>
 
               <div className="text-sm">
-                <a
-                  href="#"
-                  className="font-medium text-indigo-600 hover:text-indigo-500"
-                >
+                <a href="#" className="font-medium text-indigo-600 hover:text-indigo-500">
                   Forgot your password?
                 </a>
               </div>
@@ -100,10 +87,7 @@ export default function login() {
                 className="group relative flex w-full justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
               >
                 <span className="absolute inset-y-0 left-0 flex items-center pl-3">
-                  <LockClosedIcon
-                    className="h-5 w-5 text-indigo-500 group-hover:text-indigo-400"
-                    aria-hidden="true"
-                  />
+                  <LockClosedIcon className="h-5 w-5 text-indigo-500 group-hover:text-indigo-400" aria-hidden="true" />
                 </span>
                 Sign in
               </button>
@@ -112,5 +96,6 @@ export default function login() {
         </div>
       </div>
     </>
-  );
+  )
+  
 }
