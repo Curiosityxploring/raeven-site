@@ -13,6 +13,7 @@ import {
   ArchiveBoxArrowDownIcon,
   BuildingStoreFrontIcon,
   HomeIcon,
+  
 } from "@heroicons/react/24/outline";
 import {
   ArrowTopRightOnSquareIcon,
@@ -258,10 +259,14 @@ export default function Landing() {
                 </div>
               </div>
               <div className="hidden md:flex md:items-center md:space-x-6">
-                <Link href="/login">
-                  <nav className="text-base font-medium text-white hover:text-gray-300">
-                    Log in
-                  </nav>
+                <a
+                  href="#"
+                  className="text-base font-medium text-white hover:text-gray-300"
+                >
+                  Log in
+                </a>
+                <Link>
+                    <nav>L</nav>
                 </Link>
                 <a
                   href="#"
