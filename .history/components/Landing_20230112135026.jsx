@@ -396,15 +396,14 @@ export default function Landing() {
           <div className="relative bg-gray-50 pt-16 sm:pt-24 lg:pt-32">
             <div className="mx-auto max-w-md px-6 text-center sm:max-w-3xl lg:max-w-7xl lg:px-8">
               <div>
-                <h2 className="text-lg font-semibold text-cyan-600">Ease</h2>
+                <h2 className="text-lg font-semibold text-cyan-600">
+                  Ease
+                </h2>
                 <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
                   No big shop? No problem.
                 </p>
                 <p className="mx-auto mt-5 max-w-prose text-xl text-gray-500">
-                  We allow you to easily and sell without any having a big shop,
-                  with just a few steps you become a shop owner on the raeven
-                  platforma and reach to as much customers from around you and
-                  and around the world.
+                  We allow you to easily and sell without any having a big shop, with just a few steps you become a shop owner on the raeven platforma and reach to as much customers from around you and and around the world
                 </p>
               </div>
               <div className="mt-12 -mb-10 sm:-mb-24 lg:-mb-80">

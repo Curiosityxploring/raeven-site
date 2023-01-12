@@ -404,7 +404,7 @@ export default function Landing() {
                   We allow you to easily and sell without any having a big shop,
                   with just a few steps you become a shop owner on the raeven
                   platforma and reach to as much customers from around you and
-                  and around the world.
+                  and around the world
                 </p>
               </div>
               <div className="mt-12 -mb-10 sm:-mb-24 lg:-mb-80">
