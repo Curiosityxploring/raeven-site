@@ -474,7 +474,7 @@ export default function Landing() {
             <div className="xl:grid xl:grid-cols-3 xl:gap-8"></div>
             <div className="mt-12 border-t border-gray-200 py-8">
               <p className="text-base text-gray-400 xl:text-center">
-                &copy; 2023 Curiosityxploring, Inc. All rights reserved.
+                &copy; 2023 Curiosityxploring, Inc. All rights reserved by Curiosityxploring.
               </p>
             </div>
           </div>
